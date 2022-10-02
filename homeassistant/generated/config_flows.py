@@ -240,6 +240,7 @@ FLOWS = {
         "konnected",
         "kostal_plenticore",
         "kraken",
+        "kstar",
         "kulersky",
         "lacrosse_view",
         "lametric",

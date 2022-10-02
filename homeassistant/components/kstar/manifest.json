@@ -1,0 +1,13 @@
+{
+  "domain": "kstar",
+  "name": "KStar Solar Inverter",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/kstar",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@tompoole"],
+  "iot_class": "local_polling"
+}

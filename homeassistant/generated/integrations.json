@@ -2889,6 +2889,11 @@
       "config_flow": true,
       "iot_class": "cloud_polling"
     },
+    "kstar": {
+      "config_flow": true,
+      "iot_class": "local_polling",
+      "name": "KStar Solar Inverter"
+    },
     "kulersky": {
       "name": "Kuler Sky",
       "integration_type": "hub",
